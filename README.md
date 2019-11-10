@@ -1,5 +1,5 @@
 # Peliculas
 
-Este es el repositorio del proyecto de películas de mi curso de Flutter
+Este es el repositorio del proyecto de películas de Flutter curso fernando herrera
 
 https://fernando-herrera.com/#/home
